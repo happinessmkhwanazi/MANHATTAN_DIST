@@ -40,6 +40,7 @@ public class Farthest{
         }
 
         //After completing the iteration, prints out the points point1 and point2, which represent the farthest pair of points based on Manhattan distance.
+        System.out.println("Farthest pair of points:")
         System.out.println(point1);
         System.out.println(point2);
     }
